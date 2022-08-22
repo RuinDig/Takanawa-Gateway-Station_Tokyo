@@ -1,6 +1,6 @@
 # Takanawa-Gateway-Station_Tokyo
 CC-BY-4.0 - RuinDig/Yuki Uchida
-<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png" /></a></div>
+<div style="text-align: center;"><a href="https://creativecommons.org/licenses/by/4.0/deed.ja"><img src="https://user-images.githubusercontent.com/20723919/145936543-577c7705-90e2-4d56-ad5d-26b0fbcea02d.png"></a></div>
 
 東京都港区、JR東日本の高輪ゲートウェイ駅。撮影時期：2020年11月22日 JR EAST, Takanawa Gateway Station, Minato City, Tokyo. Photos and video on 2020.11.22
 
